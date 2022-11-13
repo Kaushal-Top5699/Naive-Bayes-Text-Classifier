@@ -1,1 +1,1 @@
-# Navie Bayes Text Classifier
+# Naive Bayes Text Classifier
