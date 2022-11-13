@@ -1,1 +1,1 @@
-# Navie-Bayes-Text_Classifier
+# Navie Bayes Text Classifier
